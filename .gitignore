@@ -127,3 +127,5 @@ buildNumber.properties
 *.wasm
 *.wat
 *.xhtml
+
+# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,maven,web
